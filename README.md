@@ -1,10 +1,17 @@
-# Ageras Laravel Onesky
+# Ageras Laravel Onesky (fork)
 [![Latest Stable Version](https://poser.pugx.org/ageras/laravel-onesky/v/stable)](https://packagist.org/packages/ageras/laravel-onesky)
-[![CircleCI](https://circleci.com/gh/ageras-com/laravel-onesky/tree/master.svg?style=svg)](https://circleci.com/gh/ageras-com/laravel-onesky/tree/master)
 [![Total Downloads](https://poser.pugx.org/ageras/laravel-onesky/downloads)](https://packagist.org/packages/ageras/laravel-onesky)
-[![Latest Unstable Version](https://poser.pugx.org/ageras/laravel-onesky/v/unstable)](https://packagist.org/packages/ageras/laravel-onesky)
 [![License](https://poser.pugx.org/ageras/laravel-onesky/license)](https://packagist.org/packages/ageras/laravel-onesky)
-[![Monthly Downloads](https://poser.pugx.org/ageras/laravel-onesky/d/monthly)](https://packagist.org/packages/ageras/laravel-onesky)
+
+## Notes about this forked version
+This is a fork of the package: agares/laravel-onesky, but since it seems inactive, I'm maintaining a version here. 
+The namespaces are still the same, so the only thing you have to do to migrate to this package, 
+is replacing the installation like so:
+
+```bash
+composer remove ageras/laravel-onesky \
+    && composer require roelofjan-elsinga/laravel-onesky
+```
 
 ## Description
 A seamless integration between Laravel and the Onesky API.
@@ -15,7 +22,7 @@ By using artisan commands you can easily push new phrases ready for translation 
 
 Require this package using composer:
 ```
-composer require ageras/laravel-onesky
+composer require roelofjan-elsinga/laravel-onesky
 ```
 
 ## Usage

@@ -1,11 +1,15 @@
 {
-    "name": "ageras/laravel-onesky",
+    "name": "roelofjan-elsinga/laravel-onesky",
     "description": "Use artisan commands to keep track of your onesky translations",
     "license": "MIT",
     "authors": [
         {
             "name": "Nicolai Østby",
             "email": "nicolaiostby@gmail.com"
+        },
+        {
+            "name": "Roelof Jan Elsinga",
+            "email": "roelofjanelsinga@gmail.com"
         }
     ],
     "require": {
