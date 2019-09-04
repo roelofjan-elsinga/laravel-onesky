@@ -1,7 +1,8 @@
 # Ageras Laravel Onesky (fork)
-[![Latest Stable Version](https://poser.pugx.org/ageras/laravel-onesky/v/stable)](https://packagist.org/packages/ageras/laravel-onesky)
-[![Total Downloads](https://poser.pugx.org/ageras/laravel-onesky/downloads)](https://packagist.org/packages/ageras/laravel-onesky)
-[![License](https://poser.pugx.org/ageras/laravel-onesky/license)](https://packagist.org/packages/ageras/laravel-onesky)
+[![Build status](https://travis-ci.com/roelofjan-elsinga/laravel-onesky.svg)](https://travis-ci.com/roelofjan-elsinga/laravel-onesky)
+[![Latest Stable Version](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/v/stable)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
+[![Total Downloads](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/downloads)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
+[![License](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/license)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
 
 ## Notes about this forked version
 This is a fork of the package: agares/laravel-onesky, but since it seems inactive, I'm maintaining a version here. 
