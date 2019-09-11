@@ -26,6 +26,10 @@ Require this package using composer:
 composer require roelofjan-elsinga/laravel-onesky
 ```
 
+### Which version to use?
+- 1.0.0 uses Laravel 5.8
+- 2.0.0 uses Laravel 6.0
+
 ## Usage
 
 Copy the package config to your local config with the publish command:
