@@ -1,5 +1,6 @@
-# Ageras Laravel Onesky (fork)
+# Laravel Onesky (fork)
 [![Build status](https://travis-ci.com/roelofjan-elsinga/laravel-onesky.svg)](https://travis-ci.com/roelofjan-elsinga/laravel-onesky)
+![StyleCI status](https://github.styleci.io/repos/202086097/shield)
 [![Latest Stable Version](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/v/stable)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
 [![Total Downloads](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/downloads)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
 [![License](https://poser.pugx.org/roelofjan-elsinga/laravel-onesky/license)](https://packagist.org/packages/roelofjan-elsinga/laravel-onesky)
