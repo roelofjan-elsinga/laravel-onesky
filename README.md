@@ -32,6 +32,7 @@ composer require roelofjan-elsinga/laravel-onesky
 ### Which version to use?
 - 1.0.0 uses Laravel 5.8
 - 2.0.0 uses Laravel 6.0
+- 3.0.0 uses Laravel 7.0
 
 ## Usage
 
